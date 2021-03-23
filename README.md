@@ -1,2 +1,2 @@
 # Realistic-RP
-Realistic-RP.exe is the Program Executable.
+Realistic RP.exe is the Program Executable.
